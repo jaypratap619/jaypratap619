@@ -21,6 +21,5 @@ Let's discuss how I can bring your web projects to life or collaborate on exciti
 
 📧 Email: jaypratap619@gmail.com
 🌐 Portfolio: https://jaypratap619.github.io/my_portfolio/
-📝 GitHub: https://github.com/jaypratap619
 
 Let's build beautiful, responsive, and user-friendly web experiences together! 🚀.
