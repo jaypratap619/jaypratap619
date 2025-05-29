@@ -1,4 +1,4 @@
-🚀 Frontend Web Developer | React.js Enthusiast | UI/UX Aficionado
+🚀 Python Fullstack Web Developer | React.js  
 
 👋 Hi, I'm Jay 👨‍💻
 
@@ -9,7 +9,7 @@ Passionate about crafting seamless and stunning user interfaces with a strong fo
 🔹 Senior Engineer - Industrial IOT at LTIMindtree - Building modern web applications with React.js and pushing the boundaries of frontend development..
 
 🛠️ Skills:
-💡 React.js | JavaScript ES6+ | HTML5 | CSS3 | Redux 
+💡 React.js | JavaScript ES6+ | HTML5 | CSS3 | Redux | Flask | Python
 🎨 UI/UX Design | Responsive Web Design | Cross-Browser Compatibility
 🧰 Git | REST APIs | Node JS | GraphQL
 
